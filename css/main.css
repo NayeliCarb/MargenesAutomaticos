@@ -1,8 +1,21 @@
 /* Escribe aqui tu CSS */
+body{
+	background-image: url("http://2.bp.blogspot.com/-gDy7rZ1XtkE/UI28lnak0XI/AAAAAAAABjk/UL69cP-Avrw/s1600/fondos%2520de%2520pantalla%2520flores%2520hermosas.jpg");
+}
+h1{
+	font-family: AngelicWar;
+	font-size: 90px;
+	text-align: center;
+	color: #FF0080;
+}
 div{
-	border:#FFFF00 10px solid;
+	border-radius: 15px;
+	border:#B40486 10px solid;
 	width: 150px;
 	height: 150px;
+	margin-left: 150px;
+	background-image: url("http://4.bp.blogspot.com/-Dh5vfCsLIMQ/UwZhvC08B6I/AAAAAAAAFkk/6kkDGb3fUQY/s1600/tumblr_mzu1a1Mxuh1r47ukro1_500.jpg")
+
 }
 p{
 	font-size: 10px;
@@ -11,10 +24,14 @@ p{
 	padding-top: 15px;
 	padding-left: 15px;
 	padding-right: 15px;
+	color: #8A0829;
+
 }
 .divUno{
-	margin-left: 350px;
+	margin-left: 550px;
+	background-image: url("http://cdn3.ipadizate.es/2015/05/mejores-fondos-pantalla-ipad-2.jpg");
+
 }
 .pUno{
-	/*margin-left: 300px;
+	color:#FF0080;
 }
