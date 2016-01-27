@@ -1,0 +1,20 @@
+/* Escribe aqui tu CSS */
+div{
+	border:#FFFF00 10px solid;
+	width: 150px;
+	height: 150px;
+}
+p{
+	font-size: 10px;
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.divUno{
+	margin-left: 350px;
+}
+.pUno{
+	/*margin-left: 300px;
+}
